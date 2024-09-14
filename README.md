@@ -1,1 +1,1 @@
-# kaggle-study
+# 24-2. KAGGLE STUDY
